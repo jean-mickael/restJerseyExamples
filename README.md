@@ -1,6 +1,7 @@
 # restJerseyExamples
 
 3 apis available:
+
 Convert Celsius to Fahrenheit returning XML, the last number is the Celsius value
 http://localhost:8080/RESTJerseyExample/jmw/celsius/20
 
