@@ -12,6 +12,7 @@ Returns a JSON object by using the us zipcode provided and using api.openweather
 http://localhost:8080/RESTJerseyExample/jmw/weather/94158
 
 
+
 Setup from eclipse:
 
 1) New Dynamic Web Project
