@@ -26,3 +26,6 @@ Setup from eclipse:
 5) edit web.xml
 
 6) Maven Build, clean install, add server 
+
+
+Based on http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
