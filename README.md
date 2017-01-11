@@ -18,4 +18,4 @@ Setup from eclipse:
 3) Convert to Maven project to add the dependencies Right click on project -> Configure -> Convert to Maven Project
 4) add dependendies: asm asm 3.3.1, com.sun.jersey (jersey-bundle, jersey-core, jersey-server) 1.19, org.json json 20140107
 5) edit web.xml
-6) Maven Build, clean install, add server
+6) Maven Build, clean install, add server 
